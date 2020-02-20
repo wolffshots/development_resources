@@ -6,6 +6,9 @@
 ### Markdown
 [GitHub Flavoured Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 GFM is very useful for making quick and easily styled informative READMEs such as this one
+
+https://github.com/rexxars/react-markdown - this is how to implement it into actual webpages
+
 ### Git
 Super important skill used for both collaboration in teams and version control when working alone. Connecting the git program to GitHub or another hosting service allows for easy incremental syncing between workstations and users.
 Install via [this page for Windows](https://git-scm.com/download/win) or using ```sudo apt install git``` or ```sudo yum install git``` on Linux based systems. There is a graphical client available too these days.
@@ -13,16 +16,20 @@ Install via [this page for Windows](https://git-scm.com/download/win) or using `
 ### [Stack Overflow](https://stackoverflow.com/)
 Stack Overflow is a great forum style Q&A site which is a great place to call on others knowledge to solve a problem. It is always good practice to try search for an issue and someone else's solution to it rather than asking a new question or giving up.
 ## Web apps
+### JavaScript
+https://tympanus.net/codrops/ - a bunch of examples
 
-[Node.js](https://nodejs.org/)
+#### [Node.js](https://nodejs.org/)
 
 A JavaScript runtime designed for scalable web apps. It forms the basis of tons of other packages and frameworks like React
 
-### [React JS](https://reactjs.org/)
+#### [React JS](https://reactjs.org/)
 React is a JavaScript predominantly client side which require some sort of restful backend to communicate with for most apps
+
 [The Complete Guide To React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) - this course covers quite a decent array of relevant aspects of React and even some Firebase as a rest backend
 
-### [Django](https://www.djangoproject.com/) (Python)
+### Python
+#### [Django](https://www.djangoproject.com/) (Python)
 Django is a python based server side web hosting framework to serve html pages to users
 ### CSS
 Cascading Style Sheets - used to style HTML components ('Cascading' because children can inherit styles)
@@ -66,6 +73,7 @@ Heroku is a free app hosting service that functions simillarly to a simple git r
 Some skills Gabriel recommended I do for helping him do fairly full stack upper tier development on bigger projects
 
 - [x] react
+- [x] https://redux.js.org/
 - [ ] gastby.js
 - [ ] graphql
 - [ ] sass
