@@ -3,22 +3,22 @@
 ### *A bunch of resources I found helpful in either learning new development skills or actual reference during development*
 
 ## General skills
-- [Markdown](./markdown/readme.md)
-- [Git](./git/readme.md)
+- [Markdown](./markdown)
+- [Git](./git)
 
 ### [Stack Overflow](https://stackoverflow.com/)
 Stack Overflow is a great forum style Q&A site which is a great place to call on others knowledge to solve a problem. It is always good practice to try search for an issue and someone else's solution to it rather than asking a new question or giving up.
 
 ## Web apps
 
-- [NodeJS](./node/readme.md)
+- [NodeJS](./node)
 
-- [ReactJS](./react/readme.md) - one of the main big frameworks for web dev
+- [ReactJS](./react) - one of the main big frameworks for web dev
 
-- [Django](./django/readme.md)
+- [Django](./django)
 
-- [TypeScript](./typescript/readme.md)
-- [CSS](./css/readme.md)
+- [TypeScript](./typescript)
+- [CSS](./css)
 
 ### Utilities
 [XML sitemap](https://www.xml-sitemaps.com/) - a utility which scans for dead links and creates a map of a site
@@ -26,11 +26,11 @@ Stack Overflow is a great forum style Q&A site which is a great place to call on
 ## Local apps
 ### C++ 
 
-- [Rust](./rust/readme.md)
+- [Rust](./rust)
 
-- [Python](./python/readme.md)
+- [Python](./python)
 
-- [Java](./java/readme.md)
+- [Java](./java)
 
 ## Servers
 ### Linux
@@ -39,6 +39,6 @@ Just choose a distro and learn it
 
 ## Deploying various apps
 
-- [Heroku](./deployement/heroku/readme.md)
+- [Heroku](./deployement/heroku)
 
-- [Firebase](./deployement/firebase/readme.md)
+- [Firebase](./deployement/firebase)
