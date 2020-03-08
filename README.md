@@ -15,6 +15,8 @@ Stack Overflow is a great forum style Q&A site which is a great place to call on
 
 - [ReactJS](./react) - one of the main big frameworks for web dev
 
+- [Preact](./preact) - compact react alternative
+
 - [Django](./django)
 
 - [TypeScript](./typescript)
@@ -22,6 +24,7 @@ Stack Overflow is a great forum style Q&A site which is a great place to call on
 
 ### Utilities
 [XML sitemap](https://www.xml-sitemaps.com/) - a utility which scans for dead links and creates a map of a site
+[Color scheme](https://www.rapidtables.com/web/color/color-scheme.html)
 
 ## Local apps
 ### C++ 

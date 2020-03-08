@@ -7,3 +7,7 @@ https://www.udemy.com/share/101WbyAkAYdVhbQ34=/
 https://www.udemy.com/course/react-native-the-practical-guide/
 
 https://tympanus.net/codrops/ - a bunch of examples
+
+[React Motion](https://github.com/chenglou/react-motion)
+
+[Material components](https://material-ui.com/)
