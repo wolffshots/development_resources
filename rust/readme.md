@@ -1,0 +1,3 @@
+# [Rust](https://www.rust-lang.org/) (through cargo)
+[Traversy Media intro course](https://youtu.be/zF34dRivLOw)
+Rust is a very powerful speed oriented language with some support for web development but mainly aimed at writing backend apps. It doesn't have as steep a learning curve but for certain applications it has comparable performance but it also has the added benefit of doing some memory management automatically

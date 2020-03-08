@@ -1,0 +1,2 @@
+[heroku.com](https://dashboard.heroku.com/)
+Heroku is a free app hosting service that functions simillarly to a simple git remote repo so that you can deploy to it just by pushing new git commits. It supports various different languages (Node.js, Ruby, Java, PHP, Python, Go, Scala, Clojure) and for some situations no configuration is even neccessary as Heroku automatically sets it up and deploys. Detailed docs are available [here](https://devcenter.heroku.com/)

@@ -1,0 +1,3 @@
+# Git
+Super important skill used for both collaboration in teams and version control when working alone. Connecting the git program to GitHub or another hosting service allows for easy incremental syncing between workstations and users.
+Install via [this page for Windows](https://git-scm.com/download/win) or using ```sudo apt install git``` or ```sudo yum install git``` on Linux based systems. There is a graphical client available too these days.
