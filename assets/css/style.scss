@@ -1,35 +1,49 @@
 ---
-
 ---
 
 @import "{{ site.theme }}";
 
-h1{
-    color: white;
-    transition: font-size 0.2s ease-in-out;
+h1 {
+  color: white;
+  transition: font-size 0.2s ease-in-out;
 }
 
-html body div{
-    color:#ccc;
-    background: #212121;
+html body div {
+  color: #ccc;
+  background: #212121;
 }
 
 a {
-    color: darkslateblue;
+  color: darkslateblue;
 }
 
-#main_content_wrap{
-    color:#ccc;
-    background: #212121;
-    border-bottom: 1px solid #292929;
+#main_content_wrap {
+  color: #ccc;
+  background: #212121;
+  border-bottom: 1px solid #292929;
 }
-#header_wrap{
-    position: sticky;
-    top: 0%;
-    z-index: 100;
-    height: 120px;
+#header_wrap {
+  position: sticky;
+  top: 0%;
+  z-index: 100;
+  height: 120px;
+  background: #373737;
 }
 
-h1:hover{
-    transform: scale(1.02);
+h1:hover {
+  transform: scale(1.02);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #ccc;
+  margin: 10px 0;
+  font-weight: 700;
+  font-family: "Roboto", "Lucida Grande", "Calibri", Helvetica, Arial,
+    sans-serif;
+  letter-spacing: -1px;
 }
