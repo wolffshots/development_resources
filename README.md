@@ -8,6 +8,7 @@
 
 ### [Stack Overflow](https://stackoverflow.com/)
 Stack Overflow is a great forum style Q&A site which is a great place to call on others knowledge to solve a problem. It is always good practice to try search for an issue and someone else's solution to it rather than asking a new question or giving up.
+
 ## Web apps
 
 - [NodeJS](./node/readme.md)
@@ -41,4 +42,3 @@ Just choose a distro and learn it
 - [Heroku](./deployement/heroku/readme.md)
 
 - [Firebase](./deployement/firebase/readme.md)
-

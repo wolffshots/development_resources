@@ -5,3 +5,5 @@ React is a JavaScript predominantly client side which require some sort of restf
 https://www.udemy.com/share/101WbyAkAYdVhbQ34=/
 
 https://www.udemy.com/course/react-native-the-practical-guide/
+
+https://tympanus.net/codrops/ - a bunch of examples
